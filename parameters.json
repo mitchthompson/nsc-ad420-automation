@@ -30,13 +30,13 @@
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "mitchI6diag"
+            "value": "mitchl6diag"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/mitchI6diag"
+            "value": "Microsoft.Storage/storageAccounts/mitchl6diag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
